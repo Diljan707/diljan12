@@ -1,0 +1,199 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_NEWS" ch-number="311" tvg-logo="https://image.airtel.tv/grandslam/content/2025_06_17/LOGO_X99oIa_Fm_Znews_logo-for-larg.png" group-title="Airtel Live",Zee News
+https://livetv.airtel.tv/play/ZEEDIGITAL_LIVETVCHANNEL_ZEE_NEWS
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_R_BHARAT" ch-number="316" tvg-logo="https://image.airtel.tv/grandslam/content/2026_05_21/rbharat.png" group-title="Airtel Live",Republic Bharat
+https://livetv.airtel.tv/play/MWTV_LIVETVCHANNEL_RBHARAT
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_239" ch-number="239" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd48240bd4c012c82215/images/LOGO_HD/willow+tv+-+m.png" group-title="Airtel Live",Willow TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_239
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT" ch-number="28" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4339f3b175376a61e0/images/LOGO_HD/LOGO_HD_asIWhlk80_TimesNowBharat1_1.png" group-title="Airtel Live",NAVBHARAT 
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_28
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_110" ch-number="110" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd45240bd4c012c82208/images/LOGO_HD/Times_now.png" group-title="Airtel Live",TimesNow NavBharath
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_110
+#EXTINF:-1 tvg-id="ZEEFAST_LIVECHANNEL_5" ch-number="5" tvg-logo="https://assets-msp-staging.streamready.in/assets/ZEEFAST/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO_HD/LOGO_HD_rYMG6FOQU_LOGO__N7ZX5MGJ_Z-CINE-CLASSIC.png" group-title="Airtel Live",Zee Cine Classic
+https://livetv.airtel.tv/play/ZEEFAST_LIVECHANNEL_5
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_40" ch-number="40" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/NH-BollyFlix960X540.png" group-title="Airtel Live",NH BollyFlix
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_40
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_163" ch-number="163" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd4a240bd4c012c8221f/images/LOGO_HD/zee_news_logo.png" group-title="Airtel Live",ZEE NEWS
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_163
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_311" ch-number="311" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3c240bd4c012c821e8/images/LOGO_HD/lallantop.png" group-title="Airtel Live",Lallantop TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_311
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_123" ch-number="123" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69ef0c811562a47882dbb76e/images/SQUARE_HD/SQUARE_HD_F76FC7z-C_Eros-Bollywood-Cinema_500x500.png" group-title="Airtel Live",Eros Universe Bollywood Cinema
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_123
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZOOM" ch-number="26" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" group-title="Airtel Live",Zoom
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_26
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TIMES_NOW" ch-number="23" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3e39f3b175376a61dd/images/LOGO_HD/LOGO_HD_fJ-zWhRuW_TimesNow1_1.png" group-title="Airtel Live",TIMES NOW
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_23
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_39" ch-number="39" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/NH-BollyGold960X540.png" group-title="Airtel Live",NH BollyGold
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_39
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_124" ch-number="124" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69ef0c821562a47882dbb770/images/SQUARE_HD/SQUARE_HD_qSp-a43tS_Eros-Universe_500x500.png" group-title="Airtel Live",Eros Universe Entertainment
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_124
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_7" ch-number="7" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/R_Action-960X540.png" group-title="Airtel Live",Runn Action
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_7
+#EXTINF:-1 tvg-id="ZEEFAST_LIVECHANNEL_4" ch-number="4" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEFAST/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO_HD/LOGO_HD_-pDR8lRD9_LOGO_dwwj-p87m_Z-COMEDY-NATION.png" group-title="Airtel Live",Zee Comedy Nation
+https://livetv.airtel.tv/play/ZEEFAST_LIVECHANNEL_4
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_REPUBLIC_TV" ch-number="393" tvg-logo="https://image.airtel.tv/grandslam/content/2026_05_21/republic%20tv.jpg" group-title="Airtel Live",Republic Tv
+https://livetv.airtel.tv/play/MWTV_LIVETVCHANNEL_10000000063500000
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_36" ch-number="36" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd2d240bd4c012c821bd/images/LOGO_HD/bharatvansh.png" group-title="Airtel Live",Bharatvarsh
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_36
+#EXTINF:-1 tvg-id="ZEEFAST_LIVECHANNEL_3" ch-number="3" tvg-logo="https://assets-msp-staging.streamready.in/assets/ZEEFAST/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO_HD/LOGO_HD_yXWsMO7E7_LOGO_tbT33XeZ-_Z-SOUTH-FLIX.png" group-title="Airtel Live",Zee South Flix
+https://livetv.airtel.tv/play/ZEEFAST_LIVECHANNEL_3
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_128" ch-number="128" tvg-logo="" group-title="Airtel Live",All Time Movies
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_128
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_290" ch-number="290" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd43240bd4c012c82202/images/LOGO_HD/surf+cinema.png" group-title="Airtel Live",Surf Cinema
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_290
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_31" ch-number="31" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69e8fa4c02b4b71afa664947/images/SQUARE_HD/SQUARE_HD_VDE_2SAQS_News-Nation_500x500.png" group-title="Airtel Live",News Nation
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_31
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BUSINESS" ch-number="331" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEDIGITAL/LIVECHANNEL/67ed20afb9965350035ecc50/images/SQUARE_HD/SQUARE_HD_FNyUDvbiz_Zbusiness-without-BG_logo_1X1.png" group-title="Airtel Live",Zee Business
+https://livetv.airtel.tv/play/ZEEDIGITAL_LIVETVCHANNEL_ZEE_BUSINESS
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_295" ch-number="295" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3d240bd4c012c821ec/images/LOGO_HD/PICKLE+BALL.png" group-title="Airtel Live",Pickleball TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_295
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_11" ch-number="11" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/LOGO_a08ENfVsZ_R_Thriller-960X540.png" group-title="Airtel Live",Runn Thrillers
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_11
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_41" ch-number="41" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/NH-BollyRaga-960X540.png" group-title="Airtel Live",NH BollyRaga
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_41
+#EXTINF:-1 tvg-id="ZEEFAST_LIVECHANNEL_1" ch-number="1" tvg-logo="https://assets-msp-staging.streamready.in/assets/ZEEFAST/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO_HD/LOGO_HD_5Rg5HUeoK_LOGO_qRexUPXj9_Z-HORROR-NIGHTS.png" group-title="Airtel Live",Zee Horror Nights
+https://livetv.airtel.tv/play/ZEEFAST_LIVECHANNEL_1
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_94" ch-number="94" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/6916c12ef7dcc64622990f83/images/SQUARE_HD/SQUARE_HD_OGPYzMsQ7_GreenGold_500x500.png" group-title="Airtel Live",Green Gold TV
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_94
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_TELUGU" ch-number="1210" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ETVWIN/LIVECHANNEL/6a4b95b764954e7e38748101/images/LOGO_HD/MFdTbhC7A8.png" group-title="Airtel Live",ETV Telugu
+https://livetv.airtel.tv/play/ETVWIN_LIVECHANNEL_LRuTsOccN6
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_310" ch-number="310" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd38240bd4c012c821d8/images/LOGO_HD/greengold.png" group-title="Airtel Live",Green Gold
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_310
+#EXTINF:-1 tvg-id="ZEEFAST_LIVECHANNEL_2" ch-number="2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEFAST/LIVECHANNEL/67ed20afb9965350035ecc50/images/LOGO_HD/LOGO_HD_LWxzfOWnL_LOGO_2ImrIKSnu_Z-DIL-SE.png" group-title="Airtel Live",Zee Dil Se
+https://livetv.airtel.tv/play/ZEEFAST_LIVECHANNEL_2
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MOVIES_NOW" ch-number="29" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4839f3b175376a61e2/images/LOGO_HD/LOGO_HD_hAgaZac_j_MoviesNow1_1.png" group-title="Airtel Live",MOVIES NOW 
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_29
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_88" ch-number="88" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd37240bd4c012c821d6/images/LOGO_HD/gfn_soccerTV.png" group-title="Airtel Live",GFN Soccer TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_88
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_48" ch-number="48" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3a240bd4c012c821e0/images/LOGO_HD/HarekrishnaPravachan.png" group-title="Airtel Live",Hare Krsna Pravachan
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_48
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_85" ch-number="85" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd36240bd4c012c821d2/images/LOGO_HD/epic+tv.png" group-title="Airtel Live",Epic TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_85
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MNX_HD" ch-number="32" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3a39f3b175376a61da/images/LOGO_HD/LOGO_HD_4wImHDNGh_MNX1_1.png" group-title="Airtel Live",MNX - HD
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_32
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_79" ch-number="79" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3b240bd4c012c821e4/images/LOGO_HD/JungleBook.png" group-title="Airtel Live",Jungle Book
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_79
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA" ch-number="730" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/MWTV/LIVECHANNEL/67c40e7b407ab742a7fe73e7/images/SQUARE_HD/SQUARE_HD_ak60MQ_Jc_rbangla1x1.png" group-title="Airtel Live",Republic Bangla
+https://livetv.airtel.tv/play/MWTV_LIVETVCHANNEL_RBANGLA
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_287" ch-number="287" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3e240bd4c012c821ee/images/LOGO_HD/poker+night.png" group-title="Airtel Live",Poker Night in America TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_287
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_CINEMA" ch-number="150" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ETVWIN/LIVECHANNEL/6a4b95b664954e7e387480fd/images/LOGO_HD/MFdacLtR9E.png" group-title="Airtel Live",ETV Cinema
+https://livetv.airtel.tv/play/ETVWIN_LIVECHANNEL_LRvdbFP8TI
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_86" ch-number="86" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd35240bd4c012c821d0/images/LOGO_HD/nazara+tv.png" group-title="Airtel Live",Epic Bharat
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_86
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_WION" ch-number="395" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEDIGITAL/LIVECHANNEL/67ed357bd88a5f7a856b6fbb/images/SQUARE_HD/SQUARE_HD_lgE8icLjf_WION_ANCHOR_1000X1000.jpg" group-title="Airtel Live",WION
+https://livetv.airtel.tv/play/ZEEDIGITAL_LIVETVCHANNEL_WION
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_13" ch-number="13" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd44240bd4c012c82204/images/LOGO_HD/swift+short+films.png" group-title="Airtel Live",swift short films
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_13
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_165" ch-number="165" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd49240bd4c012c8221b/images/LOGO_HD/zeezee4.png" group-title="Airtel Live",ZEE BUSINESS
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_165
+#EXTINF:-1 tvg-id="TIMESPLAY_LIVECHANNEL_channel_20" ch-number="20" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3639f3b175376a61d8/images/LOGO_HD/LOGO_HD_W789WKsvW_rsz_channels-square-image-11-pogsfkkn9ko-(2).jpg" group-title="Airtel Live",PICKLEBALL NOW
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_20
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_164" ch-number="164" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd49240bd4c012c82219/images/LOGO_HD/zeebiharjharkhand.png" group-title="Airtel Live",ZEE BIHAR
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_164
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" ch-number="31" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3339f3b175376a60dd/images/LOGO_HD/LOGO_HD_Mk0HHBB7d_MNplus1_1.png" group-title="Airtel Live",MN+ 
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_31
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ROMEDY_NOW" ch-number="30" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3839f3b175376a61d9/images/LOGO_HD/LOGO_HD_pZo0YIZKB_RomedyNow1_1.png" group-title="Airtel Live",ROMEDY NOW 
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_30
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_46" ch-number="46" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd39240bd4c012c821dc/images/LOGO_HD/HarekrishnaTV.png" group-title="Airtel Live",Hare Krsna Channel
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_46
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_184" ch-number="184" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd34240bd4c012c821cc/images/LOGO_HD/Divya_TV.png" group-title="Airtel Live",Divya TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_184
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_35" ch-number="35" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd47240bd4c012c82212/images/LOGO_HD/tv9_telugu.png" group-title="Airtel Live",TV9 Telugu
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_35
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ET_NOW" ch-number="24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3d39f3b175376a61db/images/LOGO_HD/LOGO_HD_V0Qv9pfm6_ETNow1_1.png" group-title="Airtel Live",ET NOW
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_24
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_171" ch-number="171" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd31240bd4c012c821c2/images/LOGO_HD/Bollywood_Masala.png" group-title="Airtel Live",Bollywood Masala
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_171
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_34" ch-number="34" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd47240bd4c012c82210/images/LOGO_HD/tv9_Marati.png" group-title="Airtel Live",TV9 Marathi
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_34
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_4" ch-number="4" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/PocketFilmsLogo-960X540.png" group-title="Airtel Live",Pocket Films
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_4
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_126" ch-number="126" tvg-logo="" group-title="Airtel Live",Mahua Play
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_126
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_288" ch-number="288" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd35240bd4c012c821ce/images/LOGO_HD/doc_%2B.png" group-title="Airtel Live",Documentary +
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_288
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_302" ch-number="302" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd44240bd4c012c82206/images/LOGO_HD/Rushlake+Media+GmbH.png" group-title="Airtel Live",TidPix
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_302
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_185" ch-number="185" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd34240bd4c012c821ca/images/LOGO_HD/divya_bhajan.png" group-title="Airtel Live",Divya Bhajan TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_185
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_29" ch-number="29" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/68e8f234ae2b217a0f92e31c/images/SQUARE_HD/SQUARE_HD_lYV-MV4Zj_Superfine-Films-Hindi_500x500.png" group-title="Airtel Live",Superfine Films
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_29
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_38" ch-number="38" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3d240bd4c012c821ea/images/LOGO_HD/news9Live.png" group-title="Airtel Live",News9Live
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_38
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_47" ch-number="47" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd39240bd4c012c821de/images/LOGO_HD/HarekrishnaMusic.png" group-title="Airtel Live",Hare Krsna Music
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_47
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_265" ch-number="265" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd42240bd4c012c821fc/images/LOGO_HD/SHORTFUNDLY_HINDI.png" group-title="Airtel Live",Shortfundly Hindi
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_265
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_278" ch-number="278" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd37240bd4c012c821d4/images/LOGO_HD/fateh+tv+mobile.png" group-title="Airtel Live",Fateh TV
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_278
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_308" ch-number="308" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3f240bd4c012c821f4/images/LOGO_HD/GTC+Punjabi+Shorts.png" group-title="Airtel Live",Punjabi Shorts
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_308
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_31" ch-number="31" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd45240bd4c012c8220a/images/LOGO_HD/TV9_bangla.png" group-title="Airtel Live",TV9 Bangla
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_31
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_167" ch-number="167" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd4a240bd4c012c8221d/images/LOGO_HD/zeezee3.png" group-title="Airtel Live",ZEE MPCG
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_167
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_309" ch-number="309" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd38240bd4c012c821da/images/LOGO_HD/GTC+Punjabi.png" group-title="Airtel Live",GTC Punjabi
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_309
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_166" ch-number="166" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd4b240bd4c012c82221/images/LOGO_HD/zeezee1.png" group-title="Airtel Live",ZEE PUNJAB
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_166
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_ABHIRUCHI" ch-number="453" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ETVWIN/LIVECHANNEL/6a4b95b664954e7e387480fb/images/LOGO_HD/RCjiu8p8pU.png" group-title="Airtel Live",ETV Music
+https://livetv.airtel.tv/play/ETVWIN_LIVECHANNEL_LYVApfASB6
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_2" ch-number="2" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/CineshortsLogo-960X540.png" group-title="Airtel Live",Cineshorts Premiere
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_2
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_78" ch-number="78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3f240bd4c012c821f2/images/LOGO_HD/PowerKids.png" group-title="Airtel Live",Power kids
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_78
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_33" ch-number="33" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd46240bd4c012c8220e/images/LOGO_HD/tv9_kannada.png" group-title="Airtel Live",TV9 Kannada
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_33
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_36" ch-number="36" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69e8fa4c02b4b71afa664949/images/SQUARE_HD/SQUARE_HD_CuH4Bqzzh_News-State-UP-UK_500x500.png" group-title="Airtel Live",News State UP/UK
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_36
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_264" ch-number="264" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd42240bd4c012c821fe/images/LOGO_HD/SHORTFUNDLY_TAMIL.png" group-title="Airtel Live",Shortfundly Tamil
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_264
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" ch-number="25" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4139f3b175376a61df/images/LOGO_HD/LOGO_HD_urHxV45Q__MirrorNow1_1.png" group-title="Airtel Live",MIRROR NOW
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_25
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_120" ch-number="120" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3a240bd4c012c821e2/images/LOGO_HD/history_connect.png" group-title="Airtel Live",Histroy Connect
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_120
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_PLUS" ch-number="1854" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ETVWIN/LIVECHANNEL/6a4b95b664954e7e387480ff/images/LOGO_HD/MFdXTTz2jA.png" group-title="Airtel Live",ETV Plus
+https://livetv.airtel.tv/play/ETVWIN_LIVECHANNEL_LRvEhmOy92
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_312" ch-number="312" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3c240bd4c012c821e6/images/LOGO_HD/KUTTING+LOGO.png" group-title="Airtel Live",kutingg
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_312
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_120" ch-number="120" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69e8fa4d02b4b71afa66494b/images/SQUARE_HD/SQUARE_HD_IyLxg-__j_News-State-Bihar-JH_500x500.png" group-title="Airtel Live",News State Bihar/JH
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_120
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_125" ch-number="125" tvg-logo="" group-title="Airtel Live",Mahua Khabar
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_125
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA" ch-number="985" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/MWTV/LIVECHANNEL/67c40e7b407ab742a7fe73e7/images/SQUARE_HD/SQUARE_HD_FIrZY8Xqd_R.bkannda1080X1080.png" group-title="Airtel Live",Republic Kannada
+https://livetv.airtel.tv/play/MWTV_LIVETVCHANNEL_RKANNADA
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_168" ch-number="168" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd48240bd4c012c82217/images/LOGO_HD/zeeghanta.png" group-title="Airtel Live",ZEE 24 GHANTA
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_168
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_10" ch-number="10" tvg-logo="https://image.airtel.tv/grandslam/content/2025_05_07/LOGO_o7wpa1hH7_R_SFilms-960X540.png" group-title="Airtel Live",Runn Short Films
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_10
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_124" ch-number="124" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd2f240bd4c012c821bf/images/LOGO_HD/bloomberg_originals.png" group-title="Airtel Live",Bloomberg Originals
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_124
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_70" ch-number="70" tvg-logo="" group-title="Airtel Live",Superfine Tamil
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_70
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_291" ch-number="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd3e240bd4c012c821f0/images/LOGO_HD/popular+science.png" group-title="Airtel Live",Popular Science
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_291
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_149" ch-number="149" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd32240bd4c012c821c6/images/LOGO_HD/bewealthy.png" group-title="Airtel Live",BWealthy
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_149
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_301" ch-number="301" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd40240bd4c012c821f6/images/LOGO_HD/PURPLE+TURTLE.png" group-title="Airtel Live",Purple Turle
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_301
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_122" ch-number="122" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69e8fa4d02b4b71afa66494f/images/SQUARE_HD/SQUARE_HD_WuIaB14f0_News-State-Punjab-HR__500x500.png" group-title="Airtel Live",News State Punjab/HR
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_122
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_TELANGANA" ch-number="1019" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ETVWIN/LIVECHANNEL/6a4b95b464954e7e387480f5/images/LOGO_HD/MFdmqIZW64.png" group-title="Airtel Live",ETV Telangana
+https://livetv.airtel.tv/play/ETVWIN_LIVECHANNEL_LkE8cphXE0
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_32" ch-number="32" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd46240bd4c012c8220c/images/LOGO_HD/tv9_gujarati.png" group-title="Airtel Live",TV9 Gujarati
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_32
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_123" ch-number="123" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd31240bd4c012c821c4/images/LOGO_HD/bloomberg_television.png" group-title="Airtel Live",Bloomberg Television
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_123
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" ch-number="27" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4639f3b175376a61e1/images/LOGO_HD/LOGO_HD_X3wkpp-9M_ET-swadesh1_1.png" group-title="Airtel Live",ET NOW SWADESH 
+https://livetv.airtel.tv/play/TIMESPLAY_LIVECHANNEL_channel_27
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_LIFE" ch-number="102" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ETVWIN/LIVECHANNEL/6a4b95b564954e7e387480f9/images/LOGO_HD/MFdggLIoNc.png" group-title="Airtel Live",ETV LIFE Spiritual
+https://livetv.airtel.tv/play/ETVWIN_LIVECHANNEL_LYVHfdvCpk
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_121" ch-number="121" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69e8fa4d02b4b71afa66494d/images/SQUARE_HD/SQUARE_HD_jzi_Bn0km_News-State-MP-CG_500x500.png" group-title="Airtel Live",News State MP/CG
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_121
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH" ch-number="1100" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ETVWIN/LIVECHANNEL/6a4b95b564954e7e387480f7/images/LOGO_HD/MFdjWoPL2O.png" group-title="Airtel Live",ETV Andhra Pradesh
+https://livetv.airtel.tv/play/ETVWIN_LIVECHANNEL_LYVPWFDKcq
+#EXTINF:-1 tvg-id="RUNNTV_LIVECHANNEL_139" ch-number="139" tvg-logo="" group-title="Airtel Live",NH Namo
+https://livetv.airtel.tv/play/RUNNTV_LIVECHANNEL_139
+#EXTINF:-1 tvg-id="SWIFTTV_LIVECHANNEL_305" ch-number="305" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/SWIFTTV/LIVECHANNEL/6a99bd43240bd4c012c82200/images/LOGO_HD/sports+tv+plus.png" group-title="Airtel Live",Sports TV plus
+https://livetv.airtel.tv/play/SWIFTTV_LIVECHANNEL_305
